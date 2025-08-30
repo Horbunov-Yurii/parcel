@@ -18,9 +18,13 @@
   "bugs": {
     "url": "https://github.com/Horbunov-Yurii/parcel/issues"
   },
-  "homepage": "https://github.com/Horbunov-Yurii/parcel#readme",
+  "homepage": "https://horbunov-yurii.github.io/parcel/",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "nanoid": "^5.1.5",
+    "pnotify": "^5.2.0"
   }
 }
