@@ -1,4 +1,36 @@
-h1 {
+/* h1 {
   color: hotpink;
   font-family: cursive;
+} */
+
+
+/* //========================================// */
+
+#game {
+  margin: 20px auto;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#key {
+  font-size: 40px;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #3498db;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2980b9;
 }

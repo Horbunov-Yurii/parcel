@@ -24,6 +24,7 @@
     "parcel": "^2.15.4"
   },
   "dependencies": {
+    "chart.js": "^4.5.0",
     "nanoid": "^5.1.5",
     "pnotify": "^5.2.0"
   }
